@@ -10,9 +10,9 @@
 I am an experienced programmer with a strong background in Data Science, Machine Learning and AI.
 I love solving difficult problems in areas such as
   - Quantitative Finance
-  - Parallel / Async programming
+  - Parallel / async programming
   - Temporal Databases
-  - Agent Programming / General Game Playing
+  - Agent Programming / [General Game Playing](https://en.wikipedia.org/wiki/General_game_playing)
 
 ----------------
 
@@ -22,7 +22,7 @@ I love solving difficult problems in areas such as
 
 *09/2014 - present*
 
-- Development of a Quantitative Platform, mostly Back End
+- Development of a Quantitative Platform, mostly back end
 - Advisory in Infrastructure and Recruitment
 - Connection to data providers, caching data
 - Generation of on-demand representation of data (e.g., candle bars from tick data, spreads, back-adjusting futures) 
@@ -62,7 +62,7 @@ I love solving difficult problems in areas such as
 
 *08/2011 – 06/2012*
 
-- Set up of an on-line CAPTCHA Breaking System
+- Set up of an on-line [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) Breaking System
 - Design and Development of Retrieval, Segmentation and Image Recognition processes
 - Implementation of a variety of Mathematical Image Transformation and Clustering Algorithms
 - Implementation of Automatic Text Classification System
@@ -73,9 +73,9 @@ I love solving difficult problems in areas such as
 
 *04/2010 – 10/2012*
 
-- Development of AMC, (Graph matching tool to help in DB migration)
+- Development of AMC (Graph matching tool to help in DB migration)
 - Product Owner / Lead Developer
-- Architectural Overhaul of prior system and partial re-implementation, decreasing memory footprint and run time by an order of magnitude
+- Architectural overhaul of prior system and partial re-implementation, decreasing memory footprint and run time by an order of magnitude
 - Integration in SAP Netweaver Studio
 
 *Tech: Java, Eclipse, Graph Metrics, SAP Netweaver, Multi-threading*
@@ -121,8 +121,8 @@ I love solving difficult problems in areas such as
 *04/2007 – 06/2012*
 
 Thesis: “Evaluation Functions in General Game Playing” 
-- Development of an agent that learns automatically to play games (Chess, Checkers, Connect Four, ...) without human assistance
-- Advisor: Michael Thielscher
+- Development of an agent that learns automatically to play games (Chess, Checkers, Connect Four, ...) without human assistance ([General Game Playing](https://en.wikipedia.org/wiki/General_game_playing))
+- Advisor: [Michael Thielscher](http://cgi.cse.unsw.edu.au/~mit/)
 
 *Tech: Agent Progamming, Prolog, Java, Neural Networks, Monte-Carlo methods, Game tree search algorithms, Game Theory*
 
@@ -140,7 +140,7 @@ Studies of Applied Computer Science with focus on
 **Area of Expertise**
 
 - Fundamental Technical Setup of a Company (Programming Languages, Data Storage, Infrastructure, Software Architecture, Recruitment)
-- Financial Data Providers
+- Financial Data Providers (Bloomberg, csidata, IQFeed, ...)
 - Time Series (Adjustment, Mining, Regression, Back-testing)
 - Highly Efficient / Concurrent / Scalable Code
 - Artificial Intelligence / Machine Learning
@@ -154,9 +154,9 @@ Studies of Applied Computer Science with focus on
 - Languages: 10 programming languages of all flavors (functional, object-oriented, declarative)
 - Language Focus: Java, Clojure, Prolog, Visual Basic
 - Other: Delphi, Javascript, PHP, plSQL, ...
-- Databases: postgreSQL, MongoDB, cassandra, …
-- Tools: bash, ssh, awk, emacs, Excel, Eclipse
-- Libraries: Incanter (R clone), encog, ...
+- Databases: postgreSQL, MongoDB, cassandra, ...
+- Tools: bash, ssh, awk, emacs, Excel, Eclipse, leiningen
+- Libraries: [incanter](https://github.com/incanter/incanter) (JVM R clone), [encog](http://www.heatonresearch.com/encog), [ring](https://github.com/ring-clojure/ring), [compojure](https://github.com/weavejester/compojure), [aleph](https://github.com/ztellman/aleph), [EMF](https://en.wikipedia.org/wiki/Eclipse_Modeling_Framework), ...
 - OS: Linux (8 years), Windows (5 years)
 
 **Languages**
