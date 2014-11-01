@@ -19,7 +19,7 @@ I love solving difficult problems in areas such as
 
 **Quantitative Consultant @ Financial Company in US (NDA)**
 
-**09/2014 - present**
+*09/2014 - present*
 
 - Development of a Quantitative Platform, mostly Back End
 - Advisory in Infrastructure and Recruitment
@@ -33,7 +33,7 @@ I love solving difficult problems in areas such as
 
 **IT Consultant @ Agricultural Start-Up in France (NDA)**
 
-**08/2014**
+*08/2014*
 
 - Development of a modern Farm Management / ERP / Control System
 - Advisory in Infrastructure and Recruitment
@@ -42,9 +42,9 @@ I love solving difficult problems in areas such as
 
 *Tech: Clojure, postgreSQL, REST API, Multi-threading*
 
-**CTO @ Michulke & Ringsdorf Investmenttechnologies Sàrl, Luxembourg**
+**CTO @ [Michulke & Ringsdorf Investmenttechnologies Sàrl, Luxembourg](www.mri.lu)**
 
-**07/2012 – present**
+*07/2012 – present*
 
 - Development of a Time Series Forecasting System for Energy Prices (EEX Futures)
 - Automatic Data Retrieval (Bloomberg, a Weather API)
@@ -57,9 +57,9 @@ I love solving difficult problems in areas such as
 
 *Tech: Clojure, Incanter (R clone for JVM), MongoDB, encog, Ensemble Methods, Evolutionary Algorithms, Particle Swarm Optimization, Multi-threading*
 
-**Researcher @ Neoway Ltda., Florianópolis, Brazil**
+**Researcher @ [Neoway Ltda., Florianópolis, Brazil](http://www.neoway.com.br/)**
 
-**08/2011 – 06/2012**
+*08/2011 – 06/2012*
 
 - Set up of an on-line CAPTCHA Breaking System
 - Design and Development of Retrieval, Segmentation and Image Recognition processes
@@ -68,9 +68,9 @@ I love solving difficult problems in areas such as
 
 *Technologies: Java, Eclipse, Support Vector Machines, Bayesian Networks, Web crawler, Multi-threading*
 
-**Researcher @ SAP Research, Dresden, Germany**
+**Researcher @ [SAP Research, Dresden, Germany](https://en.wikipedia.org/wiki/SAP_Research)**
 
-**04/2010 – 10/2012**
+*04/2010 – 10/2012*
 
 - Development of AMC, (Graph matching tool to help in DB migration)
 - Product Owner / Lead Developer
@@ -81,14 +81,14 @@ I love solving difficult problems in areas such as
 
 **Research Assistant @ Dept. of Computational Logic, Dresden University of Technology**
 
-**10/2007 – 06/2008**
+*10/2007 – 06/2008*
 
 - Supervision of Diploma theses on Monte-Carlo based poker and trading agents
 - Reviews of International Computer Science conference submissions
 
 **Trainee @ Modula Software Ltda, Florianópolis, Brazil**
 
-**10/2005 – 04/2006**
+*10/2005 – 04/2006*
 
 - Business Software development
 - Development of a classical Business software solution 
@@ -98,7 +98,7 @@ I love solving difficult problems in areas such as
 
 **Student Worker / Freelancer @ Oehme EDV, Chemnitz, Germany and others**
 
-**2001-2004**
+*2001-2004*
 
 - VB and VBA Development
 - Development of SPS Control program in VB
