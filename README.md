@@ -1,7 +1,6 @@
 # Daniel Michulke
 
-Data Scientist, Developer, Generalist, Entrepreneur
-----------------
+### Data Scientist, Developer, Generalist, Entrepreneur
 
 - e-Mail: dsurname AT hotmail DOT com - replace "hot" by "g" 
 - living in Luxembourg
@@ -14,6 +13,8 @@ I love solving difficult problems in areas such as
   - Parallel / Async programming
   - Temporal Databases
   - Agent Programming / General Game Playing
+
+----------------
 
 ### Professional Experience
 
@@ -49,7 +50,7 @@ I love solving difficult problems in areas such as
 - Development of a Time Series Forecasting System for Energy Prices (EEX Futures)
 - Automatic Data Retrieval (Bloomberg, a Weather API)
 - Time Series Preprocessing (back-adjusting, z-scoring, outlier detection)
-- Automatic Model Generation (Neural Networks, Least Squares) and Automatic Back-testing
+- Automatic Model Generation (Neural Networks, Least Squares, Decision Trees) and Automatic Back-testing
 - Automatic Optimization for self-improving models
 - Forecast Aggregation of Different Models
 - Portfolio Generation via Markowitz / Black Litterman
