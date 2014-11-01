@@ -1,6 +1,6 @@
 # Daniel Michulke
 
-Data Scientist, Developer, Generalist
+Data Scientist, Developer, Generalist, Entrepreneur
 ----------------
 
 - e-Mail: dsurname AT hotmail DOT com - replace "hot" by "g" 
