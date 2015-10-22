@@ -28,7 +28,7 @@ I mostly use clojure and postgresql for these purposes but often enough I deviat
 fashion, depending on crowd behavior and intrinsic properties of the trade
 - Tech: Node, Javascript, Recommendation System
 
-* Toptal Project @ US Domain Name Registar, 2 months*
+*Toptal Project @ US Domain Name Registar, 2 months*
 
 - Delivered an automatic analysis software that generated a PDF report that tracked effectiveness of the
 registrar in Verisign's daily Domain Name Auctions.
