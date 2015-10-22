@@ -20,7 +20,7 @@ I mostly use clojure and postgresql for these purposes but often enough I deviat
 
 ### Professional Experience
 
-**09/2014 – present, Quantitative Consultant, Freelance and via [Toptal](www.toptal.com)**
+**09/2014 – present, Quantitative Consultant, Freelance and via [Toptal](http://www.toptal.com)**
 
 *Freelance Project @ German Start-up, 1 month*
 
@@ -34,7 +34,7 @@ fashion, depending on crowd behavior and intrinsic properties of the trade
 registrar in Verisign's daily Domain Name Auctions.
 - Tech: Statistics, Clojure, Charts, Visualization, automated PDF generation
 
-*Toptal Project @ [accrue](www.accrue.com), Financial Startup in NY, US, 3 months*
+*Toptal Project @ [accrue](http://www.accrue.com), Financial Startup in NY, US, 3 months*
 
 - Development of a Quantitative Platform, mostly back end
 - Advisory in Infrastructure and Recruitment
@@ -49,7 +49,7 @@ registrar in Verisign's daily Domain Name Auctions.
 
 - Tech: Portfolio optimization, Bitcoin, Quantitative Finance
 
-**08/2014 - present, IT Consultant @ [Agri-Esprit](www.agri-esprit.com)**
+**08/2014 - present, IT Consultant @ [Agri-Esprit](http://www.agri-esprit.com)**
 
 - Development of a modern Farm Management / ERP / Control System
 - Advisory in Infrastructure and Recruitment
@@ -57,7 +57,7 @@ registrar in Verisign's daily Domain Name Auctions.
 - Development of back end
 - Tech: Clojure, postgreSQL, REST API, Multi-threading
 
-**07/2012 – present, CTO @ [Michulke & Ringsdorf Investmenttechnologies Sàrl, Luxembourg](www.mri.lu)**
+**07/2012 – present, CTO @ [Michulke & Ringsdorf Investmenttechnologies Sàrl, Luxembourg](http://www.mri.lu)**
 
 - Development of a Time Series Forecasting System for Energy Prices (EEX Futures)
 - Automatic Data Retrieval (Bloomberg, a Weather API)
