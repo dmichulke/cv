@@ -2,25 +2,39 @@
 
 ### Data Scientist, Developer, Generalist, Entrepreneur
 
-- e-Mail: dsurname AT hotmail DOT com - replace "hot" by "g" 
+- e-Mail: thisaccount AT hotmail DOT com - replace "hot" by "g" 
 - living in Luxembourg
 - github: www.github.com/dmichulke
 
 ### Summary
-I am an experienced programmer with a strong background in Data Science, Machine Learning and AI.
-I love solving difficult problems in areas such as
-  - Quantitative Finance
-  - Parallel / async programming
-  - Temporal Databases
-  - Agent Programming / [General Game Playing](https://en.wikipedia.org/wiki/General_game_playing)
+I am an experienced programmer and entrepreneur with a strong background in Data Science, Machine Learning and AI.
+I love solving difficult problems and most often develop Machine Learning applications from scratch up to production quality. This typically includes 
+
+- fetching/cleaning/parsing/normalizing data,
+- developing and training models
+- generating output via REST APIs, report PDFs, ...
+  
+I mostly use clojure and postgresql for these purposes but often enough I deviate (JS, Java, Python, cassandra, MongoDB, ..)
 
 ----------------
 
 ### Professional Experience
 
-**Quantitative Consultant @ Financial Company in US (NDA)**
+**09/2014 – present, Quantitative Consultant, Freelance and via [Toptal](www.toptal.com)**
 
-*09/2014 - present*
+*Freelance Project @ German Start-up, 1 month*
+
+- Developed a recommendation engine that is able to provide trade recommendations in a Tinder-like
+fashion, depending on crowd behavior and intrinsic properties of the trade
+- Tech: Node, Javascript, Recommendation System
+
+* Toptal Project @ US Domain Name Registar, 2 months*
+
+- Delivered an automatic analysis software that generated a PDF report that tracked effectiveness of the
+registrar in Verisign's daily Domain Name Auctions.
+- Tech: Statistics, Clojure, Charts, Visualization, automated PDF generation
+
+*Toptal Project @ [accrue](www.accrue.com), Financial Startup in NY, US, 3 months*
 
 - Development of a Quantitative Platform, mostly back end
 - Advisory in Infrastructure and Recruitment
@@ -29,23 +43,21 @@ I love solving difficult problems in areas such as
 - Pattern Mining on Stocks / Forex
 - Efficient Calculation and Representation of Patterns on 10k securities
 - Serving security master data via REST interface
+- Tech: Clojure, cassandra, REST API, IQFeed, csidata, bitstamp, Multi-threading
+ 
+*Several minor projects*
 
-*Tech: Clojure, cassandra, REST API, IQFeed, csidata, bitstamp, Multi-threading*
+- Tech: Portfolio optimization, Bitcoin, Quantitative Finance
 
-**IT Consultant @ Agricultural Start-Up in France (NDA)**
-
-*08/2014*
+**08/2014 - present, IT Consultant @ [Agri-Esprit](www.agri-esprit.com)**
 
 - Development of a modern Farm Management / ERP / Control System
 - Advisory in Infrastructure and Recruitment
 - Design of DB Schema
 - Development of back end
+- Tech: Clojure, postgreSQL, REST API, Multi-threading
 
-*Tech: Clojure, postgreSQL, REST API, Multi-threading*
-
-**CTO @ [Michulke & Ringsdorf Investmenttechnologies Sàrl, Luxembourg](www.mri.lu)**
-
-*07/2012 – present*
+**07/2012 – present, CTO @ [Michulke & Ringsdorf Investmenttechnologies Sàrl, Luxembourg](www.mri.lu)**
 
 - Development of a Time Series Forecasting System for Energy Prices (EEX Futures)
 - Automatic Data Retrieval (Bloomberg, a Weather API)
@@ -55,58 +67,43 @@ I love solving difficult problems in areas such as
 - Forecast Aggregation of Different Models
 - Portfolio Generation via Markowitz / Black Litterman
 - Delivery via daily eMail of an Excel Spreadsheet and Web Service
+- Tech: Clojure, Incanter (R clone for JVM), MongoDB, encog, Ensemble Methods, Evolutionary Algorithms, Particle Swarm Optimization, Multi-threading
 
-*Tech: Clojure, Incanter (R clone for JVM), MongoDB, encog, Ensemble Methods, Evolutionary Algorithms, Particle Swarm Optimization, Multi-threading*
-
-**Researcher @ [Neoway Ltda., Florianópolis, Brazil](http://www.neoway.com.br/)**
-
-*08/2011 – 06/2012*
+**08/2011 – 06/2012, Researcher @ [Neoway Ltda., Florianópolis, Brazil](http://www.neoway.com.br/)**
 
 - Set up of an on-line [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) Breaking System
 - Design and Development of Retrieval, Segmentation and Image Recognition processes
 - Implementation of a variety of Mathematical Image Transformation and Clustering Algorithms
 - Implementation of Automatic Text Classification System
+- Technologies: Java, Eclipse, Support Vector Machines, Bayesian Networks, Web crawler, Multi-threading
 
-*Technologies: Java, Eclipse, Support Vector Machines, Bayesian Networks, Web crawler, Multi-threading*
-
-**Researcher @ [SAP Research, Dresden, Germany](https://en.wikipedia.org/wiki/SAP_Research)**
-
-*04/2010 – 10/2012*
+**04/2010 – 10/2012, Researcher @ [SAP Research, Dresden, Germany](https://en.wikipedia.org/wiki/SAP_Research)**
 
 - Development of AMC (Graph matching tool to help in DB migration)
 - Product Owner / Lead Developer
 - Architectural overhaul of prior system and partial re-implementation, decreasing memory footprint and run time by an order of magnitude
 - Integration in SAP Netweaver Studio
+- Tech: Java, Eclipse, Graph Metrics, SAP Netweaver, Multi-threading
 
-*Tech: Java, Eclipse, Graph Metrics, SAP Netweaver, Multi-threading*
-
-**Research Assistant @ [Dept. of Computational Logic, Dresden University of Technology, Dresden, Germany](http://www.inf.tu-dresden.de/?node_id=3453&In=en)**
-
-*10/2007 – 06/2008*
+**10/2007 – 06/2008, Research Assistant @ [Dept. of Computational Logic, Dresden University of Technology, Dresden, Germany](http://www.inf.tu-dresden.de/?node_id=3453&In=en)**
 
 - Supervision of Diploma theses on Monte-Carlo based poker and trading agents
 - Reviews of International Computer Science conference submissions
 
-**Trainee @ [Modula Software Ltda, Florianópolis, Brazil](https://www.modula.com.br/)**
-
-*10/2005 – 04/2006*
+**10/2005 – 04/2006, Trainee @ [Modula Software Ltda, Florianópolis, Brazil](https://www.modula.com.br/)**
 
 - Business Software development
 - Development of a classical Business software solution 
 - Development of Stored Procedures and Windows Hooks for Testing
+- Tech: Delphi, postgreSQL, Windows
 
-*Tech: Delphi, postgreSQL, Windows*
-
-**Student Worker / Freelancer @ [Oehme EDV, Chemnitz, Germany](http://www.oehmeedv.de/) and others**
-
-*2001-2004*
+**2001-2004, Student Worker / Freelancer @ [Oehme EDV, Chemnitz, Germany](http://www.oehmeedv.de/) and others**
 
 - VB and VBA Development
 - Development of SPS Control program in VB
 - Development of Business software in VBA + MS Access
 - Development of helper modules for Excel in VBA
-
-*Tech: VB, VBA, MS Excel, MS Access*
+- Tech: VB, VBA, MS Excel, MS Access
 
 ### Academic Experience
 
