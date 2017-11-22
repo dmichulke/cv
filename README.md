@@ -3,27 +3,34 @@
 ### Independent Consultant, Data Scientist, Developer
 
 - Working as independent consultant
-- e-Mail: this-github-account-name AT hotmail DOT com - replace "hot" by "g" 
-- living in Luxembourg City in Luxembourg, Europe
+- e-Mail: this-github-account-name AT gmail DOT com
+- living near Luxembourg City in Luxembourg, Europe
 - github: www.github.com/dmichulke
 
 ### Summary
+
 I am an experienced programmer and entrepreneur with a strong background in Data Science, Machine Learning and AI.
-I love solving difficult problems and most often develop Machine Learning applications from scratch up to production quality. This typically includes 
+I love solving difficult problems, be it advising companies, developing Machine Learning applications or optimizing existing workflows.
 
-- fetching/cleaning/parsing/normalizing data,
-- developing and training models
-- generating output via REST APIs, report PDFs, ...
-  
-I mostly use [clojure](www.clojure.org) and [postgresql](www.postgresql.com) for these purposes but often enough I deviate (JS, Java, Python, cassandra, MongoDB, Oracle, ..).
+I value simplicity, honesty and clarity in communication.
 
-Other than that I had a fair share of experience with accounting, cash flow dynamics, start-ups and sales so I also understand how and why a business fails or succeeds.
+For development tasks I mostly use [clojure](www.clojure.org), [clojurescript](https://clojurescript.org/), often together with [react](https://en.wikipedia.org/wiki/React_\(JavaScript_library\)) and [postgresql](www.postgresql.com).
+Some other technologies I frequently use are git, docker, JS, Java, Python, cassandra, MongoDB, Oracle, ...
 
 ----------------
 
 ### Professional Experience
 
-**09/2015 - present, Consulting Algorithm Engineer @ [Reliance Jio Payment Systems Ltd.](http://www.ril.com/OurBusinesses/Jio.aspx), India**
+**11/2017, Launched [cryptoport.net](http://www.cryptoport.net)**
+
+*A light-weight and fast cryptocurrency portfolio tracking site with no cookies, little JS, ...*
+
+- Develop front-end and back-end in Clojurescript and Clojure
+- retrieve data from coinmarketcap.com
+- Deploy on Google Compute Platform
+
+
+**09/2015 - 07/2017, Consulting Algorithm Engineer @ [Reliance Jio Payment Systems Ltd.](http://www.ril.com/OurBusinesses/Jio.aspx), India**
 
 *Development of a scalable Payment System Alternative to QR Code using plain digits.*
 
@@ -39,7 +46,36 @@ Other than that I had a fair share of experience with accounting, cash flow dyna
 - Security Setup and Implementation of Security Policies
 - Tech: Information Retrieval / Recommender Systems, google S2 geo, Clojure, Clojurescript, async HTTP, Apache Lucene, postgresql, oracle 12c, heroku
 
-**09/2014 - present, Quantitative Consultant, Freelance and via [Toptal](http://www.toptal.com)**
+
+**02/2017 - present, Consultant, [EveryAir](http://www.everyair.de)**
+
+*Setup Technical Infrastructure*
+
+- Set up database (postgres) with some 30+ tables
+- Develop RESTful backend for reading/writing to DB
+- Add temporality to reflect aircraft and pilot availability
+- Implement flight search algorithm 
+- Tech: Clojure, postgresql
+
+**09/2014 - present, Consultant, Freelance and via [Toptal](http://www.toptal.com)**
+
+*Freelance Projects @ German Energy / Trading companies*
+
+- Given a CSV Dataset, determine the likelihood of Customer Churn (in one case) and rejection of a FX market order (in another case).
+- Develop and optimize a logistic regression algorithm to determine the most important factors
+- Delivery of a PDF file outlining effect of given and derived variables.
+- Tech: Logistic Regression (incanter), clj-pdf
+
+*Toptal Project @ [accrue](http://www.accrue.com), Financial Startup in NY, US, 3 months*
+
+- Development of a Quantitative Platform, mostly back end
+- Advisory in Infrastructure and Recruitment
+- Connection to data providers, caching data
+- Generation of on-demand representation of data (e.g., candle bars from tick data, spreads, back-adjusting futures) 
+- Pattern Mining on Stocks / Forex
+- Efficient Calculation and Representation of Patterns on 10k securities
+- Serving security master data via REST interface
+- Tech: Clojure, cassandra, REST API, IQFeed, csidata, bitstamp, Multi-threading
 
 *Freelance Project @ German Start-up, 1 month*
 
@@ -53,28 +89,17 @@ fashion, depending on crowd behavior and intrinsic properties of the trade
 registrar in Verisign's daily Domain Name Auctions.
 - Tech: Statistics, Clojure, Charts, Visualization, automated PDF generation
 
-*Toptal Project @ [accrue](http://www.accrue.com), Financial Startup in NY, US, 3 months*
-
-- Development of a Quantitative Platform, mostly back end
-- Advisory in Infrastructure and Recruitment
-- Connection to data providers, caching data
-- Generation of on-demand representation of data (e.g., candle bars from tick data, spreads, back-adjusting futures) 
-- Pattern Mining on Stocks / Forex
-- Efficient Calculation and Representation of Patterns on 10k securities
-- Serving security master data via REST interface
-- Tech: Clojure, cassandra, REST API, IQFeed, csidata, bitstamp, Multi-threading
- 
 *Several minor projects*
 
-- Tech: Portfolio optimization, Bitcoin, Quantitative Finance
+- Tech: Portfolio optimization, Work on a Cryptocurrency Exchange, Quantitative Finance
 
-**08/2014 - present, IT Consultant @ [Agri-Esprit](http://www.agri-esprit.com)**
+**08/2014 - 12/2015, IT Consultant @ [Agri-Esprit](http://www.agri-esprit.com)**
 
 - Development of a modern Farm Management / ERP / Control System
 - Advisory in Infrastructure and Recruitment
 - Design of DB Schema
 - Development of back end
-- Tech: Clojure, postgreSQL, REST API, Multi-threading
+- Tech: Java, Clojure, postgreSQL, REST API, Multi-threading
 
 **07/2012 - present, CTO @ [Michulke & Ringsdorf Investmenttechnologies Sarl, Luxembourg](http://www.mri.lu)**
 
@@ -152,24 +177,18 @@ Studies of Applied Computer Science
 
 **Area of Expertise**
 
-- Fundamental Technical Setup of a Company (Programming Languages, Data Storage, Infrastructure, Software Architecture, Recruitment)
-- Financial Data Providers (Bloomberg, csidata, IQFeed, ...)
-- Time Series (Adjustment, Mining, Regression, Back-testing)
-- Highly Efficient / Concurrent / Scalable Code
-- Artificial Intelligence / Machine Learning
-- Big Data / Data Analysis / Statistics
-- Complex Systems / Math
+- Fundamental Setup of a Company (Programming Languages, Data Storage, Infrastructure, Software Architecture, Recruitment)
+- Developing / Launching MVP, Marketing, Customer Interaction, Setting Priorities
+- Artificial Intelligence, Machine Learning, Data Science, Statistics
 - Full Stack Engineering
-
 
 **Tools**
 
 - Languages: 10 programming languages of all flavors (functional, object-oriented, declarative)
-- Language Focus: Java, Clojure, Prolog, Visual Basic
-- Other: Delphi, Javascript, PHP, plSQL, ...
-- Databases: postgreSQL, MongoDB, cassandra, ...
-- Tools: bash, ssh, awk, emacs, Excel, Eclipse, leiningen
-- Libraries: [incanter](https://github.com/incanter/incanter) (JVM R clone), [encog](http://www.heatonresearch.com/encog), [ring](https://github.com/ring-clojure/ring), [compojure](https://github.com/weavejester/compojure), [aleph](https://github.com/ztellman/aleph), [EMF](https://en.wikipedia.org/wiki/Eclipse_Modeling_Framework), ...
+- Language Focus: Clojure, Clojurescript 
+- Other: Delphi, Javascript, PHP, plSQL, Java, Prolog, Visual Basic
+- Databases: postgreSQL, oracle, MongoDB, cassandra, ...
+- Tools: bash, ssh, awk, emacs, git, Excel, Eclipse, leiningen
 - OS: Linux (Ubuntu, Mint, debian), Windows
 
 **Languages**
