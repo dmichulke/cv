@@ -2,8 +2,8 @@
 
 ### Independent Consultant, Data Scientist, Developer
 
-- Working as independent consultant
-- e-Mail: this-github-account-name AT gmail DOT com
+- Working as independent Consultant
+- e-Mail: this-account-name AT gmail DOT com
 - living near Luxembourg City in Luxembourg, Europe
 - github: www.github.com/dmichulke
 
@@ -26,7 +26,7 @@ Some other technologies I frequently use are git, docker, JS, Java, Python, cass
 *A light-weight and fast cryptocurrency portfolio tracking site with no cookies, little JS, ...*
 
 - Develop front-end and back-end in Clojurescript and Clojure
-- retrieve data from coinmarketcap.com
+- Retrieve data from coinmarketcap.com
 - Deploy on Google Compute Platform
 
 
@@ -209,10 +209,10 @@ Studies of Applied Computer Science
 
 **Publications (among others)**
 
-- "Distance Features for General Game Playing Agents", ICAART '12
-- "Neural Networks for State Evaluation in General Game Playing", ECML '09
-- "Knowledge-Based General Game Playing", Künstliche Intelligenz 01/11
-- "Matt bei Vier Gewinnt", c't 01/09
+- ["Distance Features for General Game Playing Agents"](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.663.6856), ICAART '12
+- ["Neural Networks for State Evaluation in General Game Playing"](https://link.springer.com/chapter/10.1007/978-3-642-04174-7_7), ECML '09
+- ["Knowledge-Based General Game Playing"](https://link.springer.com/article/10.1007/s13218-010-0073-8), Künstliche Intelligenz 01/11
+- ["Matt bei Vier Gewinnt"](https://shop.heise.de/katalog/matt-bei-vier-gewinnt), c't 01/09
 
 
 **Interests**
