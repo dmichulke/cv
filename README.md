@@ -25,10 +25,32 @@ Some other technologies I frequently use are git, docker, JS, Java, Python, cass
 
 *A light-weight and fast cryptocurrency portfolio tracking site with no cookies, little JS, ...*
 
-- Develop front-end and back-end in Clojurescript and Clojure
+- Develop front-end and back-end in Clojurescript (using react) and Clojure
 - Retrieve data from coinmarketcap.com
 - Deploy on Google Compute Platform
 
+
+**07/2017 - present, Quantitative Analyst / Developer @ [www.accrue.com](http://www.accrue.com)**
+
+*Development of Financial Quantitative Analysis Components*
+
+- Advise regarding Technical Steps and Related Costs and Business Benefits, Determine Low-Hanging Fruits
+- Add Financial Statistics (Sharpe-Ratio, beta, alpha, correlation, p-value of asset vs. benchmark returns, ...) to back-end
+- Improve back-end performance through profiling and algorithmic improvements
+- Write back-end tests
+- Adjust front-end
+- Deployment & Maintenance
+
+**02/2017 - 11/2017, Consultant, [EveryAir](http://www.everyair.de)**
+
+*Develop MVP Back-End*
+
+- Advisory with Planning & Implementing Minimum Viable Product
+- Set up database (postgres) with 30+ tables
+- Develop RESTful backend for reading/writing to DB
+- Add [database bitemporality](https://en.wikipedia.org/wiki/Bitemporal_Modeling) to reflect aircraft and pilot availability
+- Implement flight search algorithm, matching  pilot availability, aircraft availability, airport opening hours, pilot's nearby airports, allowed airports for aircraft, pilot certificates, customer preferences, existing reservations, ...
+- Tech: Clojure, postgresql
 
 **09/2015 - 07/2017, Consulting Algorithm Engineer @ [Reliance Jio Payment Systems Ltd.](http://www.ril.com/OurBusinesses/Jio.aspx), India**
 
@@ -46,25 +68,23 @@ Some other technologies I frequently use are git, docker, JS, Java, Python, cass
 - Security Setup and Implementation of Security Policies
 - Tech: Information Retrieval / Recommender Systems, google S2 geo, Clojure, Clojurescript, async HTTP, Apache Lucene, postgresql, oracle 12c, heroku
 
+**06/2017 - 07/2017, Market Order Execution Probability Prediction @ German FX Brokerage Company**
 
-**02/2017 - present, Consultant, [EveryAir](http://www.everyair.de)**
+- Discuss / Analyze Order Execution Problem 
+- Determine required variables and request dataset
+- Develop and optimize a logistic regression algorithm to determine the most important factors for execution or rejection of a FX market order.
+- Delivery of a PDF file outlining impact of given variables for several time windows
+- Tech: Logistic Regression using incanter (Java VM based R Clone)
 
-*Setup Technical Infrastructure*
+**03/2017 - 04/2017, Customer Churn Prediction @ German Energy B2C Company**
 
-- Set up database (postgres) with some 30+ tables
-- Develop RESTful backend for reading/writing to DB
-- Add temporality to reflect aircraft and pilot availability
-- Implement flight search algorithm 
-- Tech: Clojure, postgresql
+- Discuss / Analyze Company's Business Model + Churn Problem
+- Determine required variables and request dataset
+- Develop and optimize a logistic regression algorithm to determine the most important factors
+- Delivery of a PDF outlining impact of various given and computed variables
+- Tech: Logistic Regression using incanter (Java VM based R Clone)
 
 **09/2014 - present, Consultant, Freelance and via [Toptal](http://www.toptal.com)**
-
-*Freelance Projects @ German Energy / Trading companies*
-
-- Given a CSV Dataset, determine the likelihood of Customer Churn (in one case) and rejection of a FX market order (in another case).
-- Develop and optimize a logistic regression algorithm to determine the most important factors
-- Delivery of a PDF file outlining effect of given and derived variables.
-- Tech: Logistic Regression (incanter), clj-pdf
 
 *Toptal Project @ [accrue](http://www.accrue.com), Financial Startup in NY, US, 3 months*
 
