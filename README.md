@@ -5,7 +5,10 @@
 - Working as independent Consultant
 - e-Mail: this-account-name AT gmail DOT com
 - living near Luxembourg City in Luxembourg, Europe
-- github: www.github.com/dmichulke
+- github: [www.github.com/dmichulke](https://www.github.com/dmichulke)
+- LinkedIn: [www.linkedin.com/in/daniel-michulke-118bba81/](https://www.linkedin.com/in/daniel-michulke-118bba81/)
+- Blog: [dmichulke.github.io](https://dmichulke.github.io)
+- Cryptocurrency Portfolio Site: [www.cryptoport.net](https://www.cryptoport.net) 
 
 ### Summary
 
@@ -14,14 +17,14 @@ I love solving difficult problems, be it advising companies, developing Machine 
 
 I value simplicity, honesty and clarity in communication.
 
-For development tasks I mostly use [clojure](www.clojure.org), [clojurescript](https://clojurescript.org/), often together with [react](https://en.wikipedia.org/wiki/React_\(JavaScript_library\)) and [postgresql](www.postgresql.com).
+For development tasks I mostly use [clojure](https://www.clojure.org), [clojurescript](https://clojurescript.org/), often together with [react](https://en.wikipedia.org/wiki/React_\(JavaScript_library\)) and [postgresql](https://www.postgresql.com).
 Some other technologies I frequently use are git, docker, JS, Java, Python, cassandra, MongoDB, Oracle, ...
 
 ----------------
 
 ### Professional Experience
 
-**11/2017, Launched [cryptoport.net](http://www.cryptoport.net)**
+**11/2017, Launched [cryptoport.net](https://www.cryptoport.net)**
 
 *A light-weight and fast cryptocurrency portfolio tracking site with no cookies, little JS, ...*
 
