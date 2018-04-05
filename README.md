@@ -7,7 +7,7 @@
 - living near Luxembourg City in Luxembourg, Europe
 - github: [www.github.com/dmichulke](https://www.github.com/dmichulke)
 - LinkedIn: [www.linkedin.com/in/daniel-michulke-118bba81/](https://www.linkedin.com/in/daniel-michulke-118bba81/)
-- Blog: [dmichulke.github.io](https://dmichulke.github.io)
+- Business Blog: [dmichulke.github.io](https://dmichulke.github.io)
 - Cryptocurrency Portfolio Site: [www.cryptoport.net](https://www.cryptoport.net) 
 
 ### Summary
@@ -18,11 +18,21 @@ I love solving difficult problems, be it advising companies, developing Machine 
 I value simplicity, honesty and clarity in communication.
 
 For development tasks I mostly use [clojure](https://www.clojure.org), [clojurescript](https://clojurescript.org/), often together with [react](https://en.wikipedia.org/wiki/React_\(JavaScript_library\)) and [postgresql](https://www.postgresql.com).
-Some other technologies I frequently use are git, docker, JS, Java, Python, cassandra, MongoDB, Oracle, ...
+Other technologies I frequently use are [Python](https://www.python.org/) with [all](http://www.numpy.org/) [the](https://pypi.python.org/pypi/pandas) [ML libraries](http://scikit-learn.org/stable/), git, docker, JS, Java, cassandra, MongoDB, Oracle, ...
 
 ----------------
 
 ### Professional Experience
+
+**01/2018 - present, Business Consultant and Data Scientist @ [SellersFunding](https://sellersfunding.com/)**
+
+*Evaluate alternative funding and business models, solve data-related problems*
+
+- Advise on alternative Business Model / Funding via Token Economy + Coin Offering, draft 1st whitepaper
+- Implement new and improve existing models for Sales Performance and Fraud Risk for sellers at marketplaces such as Amazon and ebay.
+- Implement explanation algorithm using Linear Regression models and [LIME](https://arxiv.org/abs/1602.04938) for Classification and Regression Tasks
+- Deploy on [Microsoft Azure Machine Learning Studio](https://studio.azureml.net/)
+- Tech: Python, scikit-learn, Microsoft Azure
 
 **11/2017, Launched [cryptoport.net](https://www.cryptoport.net)**
 
@@ -31,7 +41,6 @@ Some other technologies I frequently use are git, docker, JS, Java, Python, cass
 - Develop front-end and back-end in Clojurescript (using react) and Clojure
 - Retrieve data from coinmarketcap.com
 - Deploy on Google Compute Platform
-
 
 **07/2017 - present, Quantitative Analyst / Developer @ [www.accrue.com](http://www.accrue.com)**
 
