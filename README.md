@@ -24,16 +24,6 @@ Other technologies I frequently use are [Python](https://www.python.org/) with [
 
 ### Professional Experience
 
-**01/2018 - present, Business Consultant and Data Scientist @ [SellersFunding](https://sellersfunding.com/)**
-
-*Evaluate alternative funding and business models, solve data-related problems*
-
-- Advise on alternative Business Model / Funding via Token Economy + Coin Offering, draft 1st whitepaper
-- Implement new and improve existing models for Sales Performance and Fraud Risk for sellers at marketplaces such as Amazon and ebay.
-- Implement explanation algorithm using Linear Regression models and [LIME](https://arxiv.org/abs/1602.04938) for Classification and Regression Tasks
-- Deploy on [Microsoft Azure Machine Learning Studio](https://studio.azureml.net/)
-- Tech: Python, scikit-learn, Microsoft Azure
-
 **11/2017, Launched [cryptoport.net](https://www.cryptoport.net)**
 
 *A light-weight and fast cryptocurrency portfolio tracking site with no cookies, little JS, ...*
@@ -44,16 +34,15 @@ Other technologies I frequently use are [Python](https://www.python.org/) with [
 
 **07/2017 - present, Quantitative Analyst / Developer @ [www.accrue.com](http://www.accrue.com)**
 
-*Development of Financial Quantitative Analysis Components*
+*Development of Quantitative Analysis Platform*
 
 - Advise regarding Technical Steps and Related Costs and Business Benefits, Determine Low-Hanging Fruits
-- Add Financial Statistics (Sharpe-Ratio, beta, alpha, correlation, p-value of asset vs. benchmark returns, ...) to back-end
+- Implement Financial Statistics (e.g., Sharpe- and Sortino Ratio, alpha/beta, covariances, p-values of asset vs. benchmark hypotheses, ...)
+- Model return distribution using kernel density estimates 
 - Improve back-end performance through profiling and algorithmic improvements
-- Write back-end tests
-- Adjust front-end
-- Deployment & Maintenance
+- Testing & Deployment
 
-**02/2017 - 11/2017, Consultant, [EveryAir](http://www.everyair.de)**
+**02/2017 - present, Consultant, [EveryAir](http://www.everyair.de)**
 
 *Develop MVP Back-End*
 
@@ -63,6 +52,16 @@ Other technologies I frequently use are [Python](https://www.python.org/) with [
 - Add [database bitemporality](https://en.wikipedia.org/wiki/Bitemporal_Modeling) to reflect aircraft and pilot availability
 - Implement flight search algorithm, matching  pilot availability, aircraft availability, airport opening hours, pilot's nearby airports, allowed airports for aircraft, pilot certificates, customer preferences, existing reservations, ...
 - Tech: Clojure, postgresql
+
+**01/2018 - 05/2018, Business Consultant and Data Scientist @ [SellersFunding](https://sellersfunding.com/)**
+
+*Evaluate alternative funding and business models, solve data-related problems*
+
+- Advise on alternative Business Model / Funding via Token Economy + Coin Offering, draft 1st whitepaper
+- Implement new and improve existing models for Sales Performance and Fraud Risk for sellers at marketplaces, such as Amazon and ebay.
+- Implement explanation algorithm using Linear Regression models and [LIME](https://arxiv.org/abs/1602.04938) for Classification and Regression Tasks
+- Deploy on [Microsoft Azure Machine Learning Studio](https://studio.azureml.net/)
+- Tech: Python, scikit-learn, Microsoft Azure
 
 **09/2015 - 07/2017, Consulting Algorithm Engineer @ [Reliance Jio Payment Systems Ltd.](http://www.ril.com/OurBusinesses/Jio.aspx), India**
 
