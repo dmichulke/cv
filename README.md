@@ -2,7 +2,8 @@
 
 ### Independent Consultant, Data Scientist, Developer
 
-- Working as independent Consultant
+- Not available
+- Worked as independent Consultant
 - e-Mail: this-account-name AT gmail DOT com
 - living near Luxembourg City in Luxembourg, Europe
 - github: [www.github.com/dmichulke](https://www.github.com/dmichulke)
@@ -32,7 +33,7 @@ Other technologies I frequently use are [Python](https://www.python.org/) with [
 - Retrieve data from coinmarketcap.com
 - Deploy on Google Compute Platform
 
-**07/2017 - present, Quantitative Analyst / Developer @ [www.accrue.com](http://www.accrue.com)**
+**07/2017 - 10/2018, Quantitative Analyst / Developer @ [www.accrue.com](http://www.accrue.com)**
 
 *Development of Quantitative Analysis Platform*
 
@@ -42,7 +43,7 @@ Other technologies I frequently use are [Python](https://www.python.org/) with [
 - Improve back-end performance through profiling and algorithmic improvements
 - Testing & Deployment
 
-**02/2017 - present, Consultant, [EveryAir](http://www.everyair.de)**
+**02/2017 - 10/2018, Consultant, [EveryAir](http://www.everyair.de)**
 
 *Develop MVP Back-End*
 
@@ -95,7 +96,7 @@ Other technologies I frequently use are [Python](https://www.python.org/) with [
 - Delivery of a PDF outlining impact of various given and computed variables
 - Tech: Logistic Regression using incanter (Java VM based R Clone)
 
-**09/2014 - present, Consultant, Freelance and via [Toptal](http://www.toptal.com)**
+**09/2014 - 10/2018, Consultant, Freelance and via [Toptal](http://www.toptal.com)**
 
 *Toptal Project @ [accrue](http://www.accrue.com), Financial Startup in NY, US, 3 months*
 
@@ -132,7 +133,7 @@ registrar in Verisign's daily Domain Name Auctions.
 - Development of back end
 - Tech: Java, Clojure, postgreSQL, REST API, Multi-threading
 
-**07/2012 - present, CTO @ [Michulke & Ringsdorf Investmenttechnologies Sarl, Luxembourg](http://www.mri.lu)**
+**07/2012 - 08/2014, Founder and Lead Developer @ [Michulke & Ringsdorf Investmenttechnologies Sarl, Luxembourg](shut down)**
 
 - Development of a Time Series Forecasting System for Energy Prices (EEX Futures)
 - Automatic Data Retrieval (Bloomberg, a Weather API)
@@ -142,6 +143,7 @@ registrar in Verisign's daily Domain Name Auctions.
 - Forecast Aggregation of Different Models
 - Portfolio Generation via Markowitz / Black Litterman
 - Delivery via daily eMail of an Excel Spreadsheet and Web Service
+- Dealing with most business issues (Sales, Marketing, Taxes, Unreliable Co-Founders, ...)
 - Tech: Clojure, Incanter (R clone for JVM), MongoDB, encog, Ensemble Methods, Evolutionary Algorithms, Particle Swarm Optimization, Multi-threading
 
 **08/2011 - 06/2012, Researcher @ [Neoway Ltda., Florianopolis, Brazil](http://www.neoway.com.br/)**
