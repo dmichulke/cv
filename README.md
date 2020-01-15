@@ -133,7 +133,7 @@ registrar in Verisign's daily Domain Name Auctions.
 - Development of back end
 - Tech: Java, Clojure, postgreSQL, REST API, Multi-threading
 
-**07/2012 - 08/2014, Founder and Lead Developer @ [Michulke & Ringsdorf Investmenttechnologies Sarl, Luxembourg](shut down)**
+**07/2012 - 08/2014, Founder and Lead Developer @ Michulke & Ringsdorf Investmenttechnologies Sarl, Luxembourg (shut down)**
 
 - Development of a Time Series Forecasting System for Energy Prices (EEX Futures)
 - Automatic Data Retrieval (Bloomberg, a Weather API)
